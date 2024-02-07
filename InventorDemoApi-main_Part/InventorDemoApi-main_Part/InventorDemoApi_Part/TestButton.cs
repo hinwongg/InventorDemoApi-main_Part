@@ -1,8 +1,8 @@
 ﻿using Inventor;
-using InventorDemoApi.ButtonBase;
+using InventorDemoApi_Part.ButtonBase;
 using JetBrains.Annotations;
 
-namespace InventorDemoApi
+namespace InventorDemoApi_Part
 {
     public class TestButton : Button
     {

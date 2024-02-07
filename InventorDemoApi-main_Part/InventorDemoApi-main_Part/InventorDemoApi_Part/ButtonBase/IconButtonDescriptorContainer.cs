@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace InventorDemoApi.ButtonBase
+namespace InventorDemoApi_Part.ButtonBase
 {
     public class IconButtonDescriptorContainer : ButtonDescriptionContainer
     {

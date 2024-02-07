@@ -1,6 +1,6 @@
 ﻿using Inventor;
 
-namespace InventorDemoApi.ButtonBase
+namespace InventorDemoApi_Part.ButtonBase
 {
     public class ButtonDescriptionContainer
     {

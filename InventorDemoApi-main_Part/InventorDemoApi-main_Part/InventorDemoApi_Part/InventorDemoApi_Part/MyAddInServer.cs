@@ -3,7 +3,7 @@ using System;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace InventorDemoApi
+namespace InventorDemoApi_Part
 {
     [GuidAttribute("a7695474-67ee-49da-9a09-283ef242a9b2")]
     public class MyAddInServer : Inventor.ApplicationAddInServer

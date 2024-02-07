@@ -2,7 +2,7 @@
 using Inventor;
 using JetBrains.Annotations;
 
-namespace InventorDemoApi.ButtonBase
+namespace InventorDemoApi_Part.ButtonBase
 {
 
     /// <summary>

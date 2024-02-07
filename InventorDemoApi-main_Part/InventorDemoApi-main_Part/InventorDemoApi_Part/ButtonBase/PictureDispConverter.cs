@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace InventorDemoApi.ButtonBase
+namespace InventorDemoApi_Part.ButtonBase
 {
     // Class used to convert bitmaps and icons from their .Net native types into
     // an IPictureDisp object which is what the Inventor API requires. A typical

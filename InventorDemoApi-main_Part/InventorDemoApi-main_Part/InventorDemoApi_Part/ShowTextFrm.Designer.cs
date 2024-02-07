@@ -1,5 +1,5 @@
 ﻿
-namespace InventorDemoApi
+namespace InventorDemoApi_Part
 {
     partial class ShowTextFrm
     {
